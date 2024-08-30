@@ -7,3 +7,5 @@ The GUI game will feature a visually appealing interface where users can control
 
 ## Algorithm Integration
 The project will integrate an online DFS algorithm to autonomously find a path from the starting house to the goal house within the game environment.
+## Game interface
+![](https://github.com/ShadmehrBakhtiary/gui-dfs/blob/main/Screenshot%202024-08-30%20183429.png)
